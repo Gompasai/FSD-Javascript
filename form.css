@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+form{
+    width: 400px;
+    margin: 20px auto;
+}
+div{
+    margin-bottom: 15px;
+}
+input[type="text"]{
+       width: 300px;
+       font-size: 15px;
+       padding: 1opx 20px;
+       border: 3px solid #222;
+       background-color: azure;
+}
+input[type="Button"]{
+    width: 100;
+    background-color: #006400;
+    border: none;
+    color: white;
+    padding: 10px 8px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

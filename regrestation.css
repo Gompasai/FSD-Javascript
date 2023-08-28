@@ -1,0 +1,18 @@
+body{
+    background-color:cyan;
+    border: 0cap;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+input[type=text]{
+    width: 300;
+    height: 30px;
+    background-position: 0%;
+    padding-left: auto;
+}
+input[type=text]:focous{
+    background-color: azure;
+    border: 3px solid #555;
+}

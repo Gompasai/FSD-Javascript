@@ -1,0 +1,46 @@
+button{
+    width: 100;
+    background-color: #006400;
+    border: none;
+    color: white;
+    padding: 10px 8px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1{
+    background-color:white;
+    border:3px solid green;
+    color: black;
+} 
+.button1:hover{
+    background-color:green;
+    color: white;
+}
+.button2{
+    background-color: white;
+    border: 3px solid blue;
+    color: black;
+}
+.button2:hover{
+    background-color: blue;
+    color: white;
+}
+.button3{
+    background-color: white;
+    color: black;
+    border: 3px solid orange;
+}
+.button3:hover{
+    background-color: orange;
+    color: white;
+}
+.button4{
+    background-color: white;
+    color: black;
+    border: 3px solid red;
+}
+.button4:hover{
+    background-color: red;
+    color: white;
+}  

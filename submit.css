@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+form{
+    width: 400px;
+    margin: 20px auto;
+}
+input[type="text"]{
+    width: 300px;
+    padding: 10px 15px;
+    background-color: ghostwhite;
+    font-size: 15px;
+
+}
+input[type="submit"]{
+    text-align: center;
+    background-color: #228b22;
+    padding: 10px 5px;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-content: center;
+    margin: 4px 2px;
+    transition: background color 0.5s;
+}
