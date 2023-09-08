@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .battery-container {
+    text-align: center;
+  }
+  
+  .battery {
+    width: 60px;
+    height: 100px;
+    background-color: #ddd;
+    position: relative;
+  }
+  
+  .battery-status {
+    width: 100%;
+    height: 100%;
+    background-color: #4caf50;
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .battery-level {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .charging-status {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
